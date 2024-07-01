@@ -15,8 +15,3 @@ Welcome to my GitHub profile! I'm passionate about creating intelligent systems 
 - **Version Control:** Git
 - **Skills:** Machine Learning, Deep Learning, Data Analysis, Software Development
 
-## 📊 GitHub Stats:
-
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanKhalil321&show_icons=true&theme=radical)
-<br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKhalil321&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
