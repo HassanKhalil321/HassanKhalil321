@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about creating intelligent systems and solving complex problems using data-driven approaches.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Khalil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hassan-khalil-058a7a289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Khalil-blue?style=flat&logo=linkedin)](linkedin.com/in/hassan--khalil)
 
 ## 💻 Tech Stack:
 
