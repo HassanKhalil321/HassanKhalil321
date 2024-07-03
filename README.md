@@ -19,3 +19,12 @@ Welcome to my GitHub profile! I'm passionate about creating intelligent systems 
   - Deep Learning
   - Data Analysis
   - Software Development
+
+## 🚀 Top Languages:
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanKhalil321&layout=compact&theme=radical)
+
+## 🔥 Streak Stats:
+
+![Hassan's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HassanKhalil321&theme=radical)
+
