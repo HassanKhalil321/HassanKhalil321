@@ -9,9 +9,13 @@ Welcome to my GitHub profile! I'm passionate about creating intelligent systems 
 - **Languages:** Python, Java
 - **Tools & Libraries:** 
   - TensorFlow, Keras
-  - scikit-learn, NumPy, OpenCV, Matplotlib
+  - scikit-learn, NumPy, OpenCV, Matplotlib, pandas
+  - Hugging Face Transformers
   - Flask
 - **Databases:** MySQL
 - **Version Control:** Git
-- **Skills:** Machine Learning, Deep Learning, Data Analysis, Software Development
-
+- **Skills:** 
+  - Machine Learning
+  - Deep Learning
+  - Data Analysis
+  - Software Development
